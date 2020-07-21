@@ -1,0 +1,62 @@
+.login {
+    margin-top: 10em;
+    margin-bottom: 10em;
+    min-width: 400px;
+    max-width: 400px;
+}
+
+.postImg {
+    height: 35em;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navig {
+    padding: 0;
+}
+
+.insideNav {
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+p {
+    margin: 0;
+}
+
+.articleName {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+.articleDogName {
+    color: darkgray;
+    font-size: medium;
+}
+
+.articleLikes {
+    color: black;
+    font-size: medium;
+}
+
+.forms {
+    background: rgb(60,146,255);
+    background: linear-gradient(90deg, rgba(60,146,255,1) 0%, rgba(255,255,255,1) 35%, rgba(255,255,255,1) 65%, rgba(60,146,255,1) 100%);
+    overflow-x: hidden;
+}
+
+.normal {
+    background: rgb(60,146,255);
+    background: linear-gradient(90deg, rgba(60,146,255,1) 0%, rgba(255,255,255,1) 35%, rgba(255,255,255,1) 65%, rgba(60,146,255,1) 100%);
+    overflow-x: hidden;
+}
+
+html, 
+body {
+    height: 100%;
+}
+
+.nav-img {
+    background-color: #23395d;
+}
